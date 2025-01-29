@@ -63,7 +63,7 @@ To provide developers, tech enthusiasts, and end-users with a tool for **efficie
 
 ```yaml
 Model Name: AMD CPU Expert
-Base Model From: Llama 3.2
+Base Model From: deepseek-r1
 
 Description: This model is optimized for querying and analyzing AMD CPU specifications using a comprehensive knowledge base. It enables fast, detailed responses to technical queries.
 
@@ -92,7 +92,7 @@ Capabilities: Disable Vision, Enable Usage and Citations.
 
 ```yaml
 Model Name: Intel CPU Expert
-Base Model From: Llama 3.2
+Base Model From: deepseek-r1
 
 Description: This model is optimized for querying and analyzing Intel CPU specifications using a comprehensive knowledge base. It provides detailed and accurate responses to technical questions about Intel processors.
 
