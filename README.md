@@ -1,5 +1,3 @@
-# Tutorial for ModelFiles in OI
-
 ## Getting Started
 
 First, let's get a newer and smarter model called **DeepSeek R1** with the following command:
